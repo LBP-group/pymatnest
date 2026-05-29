@@ -4,7 +4,7 @@ Tutorials
 Tutorial 2: Lennard-Jones surface adsorption
 ++++++++++++++++++++++++++++++++++++++++++++++++++
 
-In this tutorial, you will be guide to use more advanced functions within Pymatpest package including the function that keeps selected atoms fixed and the function that restricts the permitted area for atoms.
+In this tutorial, you will be guided through the use of more advanced functions within the Pymatpest package, including functions for keeping selected atoms fixed and restricting the permitted region for atomic motion.
 
 Create the input file LJ100_3_K240_tutorial.inp
 -------------------------------------------
